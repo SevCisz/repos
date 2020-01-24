@@ -1,4 +1,1 @@
-Przykłądowy plik tesktowy.
-Coś innego
-Tekst Alice!
-Kolejna linijka
+Plik tekstowy - wersja 1.0
