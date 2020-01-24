@@ -1,3 +1,1 @@
-Przykłądowy plik tesktowy.
-Coś innego
-Tekst Alice!
+Plik tekstowy - wersja 1.0
