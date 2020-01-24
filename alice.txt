@@ -1,3 +1,4 @@
 Tekst alice!
 Nowa linijka
 Nowy tekst
+Zmiana 1
