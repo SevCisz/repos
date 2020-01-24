@@ -1,1 +1,2 @@
 Przykłądowy plik tesktowy.
+Tekst Alice!
