@@ -1,3 +1,4 @@
 Przykłądowy plik tesktowy.
 Coś innego
 Tekst Alice!
+Kolejna linijka
